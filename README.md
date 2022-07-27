@@ -1,2 +1,2 @@
 # Data-Structures-Algorithms
-Udacity Course Data Structures &amp; Algorithms
+Udacity Course Data Structures and Algorithms in Python
